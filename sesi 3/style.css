@@ -1,0 +1,16 @@
+.tanpaboot {
+        border: none;
+        padding: 10px;
+        font-weight: 800;
+        font-size: 3em;
+        background-color: aquamarine;
+        color:bisque;
+        cursor: pointer
+}
+
+.tanpaboot:hover {
+        background-color: black;
+        color: blueviolet;
+        transform: rotateY(2);
+        transition: all .5s;
+}
